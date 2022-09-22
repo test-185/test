@@ -390,6 +390,34 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":53,
+         "name":"area",
+         "objects":[
+                {
+                 "class":"area",
+                 "height":224,
+                 "id":19,
+                 "name":"vertretung",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":178.666666666667,
+                 "x":457.333333333333,
+                 "y":202
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -453,8 +481,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":53,
- "nextobjectid":18,
+ "nextlayerid":54,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
         {
