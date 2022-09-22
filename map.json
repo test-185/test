@@ -368,20 +368,20 @@
          "objects":[
                 {
                  "class":"website",
-                 "height":28.75,
+                 "height":200,
                  "id":17,
                  "name":"plan",
                  "properties":[
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/map-building\/website-in-map.md"
+                         "value":"https:\/\/www.google.com"
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":31.5,
-                 "x":449,
-                 "y":160.75
+                 "width":400,
+                 "x":292.333333333333,
+                 "y":100.083333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
